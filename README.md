@@ -6,8 +6,7 @@
 ## Level 2️⃣
 | Project | Period | Repository | PR |
 | --- | --- | --- | --- |
-|쇼핑 주문 2단계|진행 중|[repository]()|[PR]()|
-|쇼핑 주문 1단계|`2023-05-23` ~ `2023-05-25`|[repository](https://github.com/java-saeng/jwp-shopping-order/tree/step1)|[PR](https://github.com/woowacourse/jwp-racingcar/pull/135)|
+|쇼핑 주문 1단계|`2023-05-23` ~ `2023-06-05`|[repository](https://github.com/java-saeng/jwp-shopping-order/tree/step1)|[PR](https://github.com/woowacourse/jwp-racingcar/pull/135)|
 |지하철 3단계|`2023-05-17` ~ `2023-05-22`|[repository](https://github.com/java-saeng/jwp-subway-path/tree/step3)|[PR](https://github.com/woowacourse/jwp-subway-path/pull/181)|
 |지하철 2단계|`2023-05-11` ~ `2023-05-17`|[repository](https://github.com/java-saeng/jwp-subway-path/tree/step2)|[PR](https://github.com/woowacourse/jwp-subway-path/pull/106)|
 |지하철 1단계|`2023-05-09` ~ `2023-05-11`|[repository](https://github.com/java-saeng/jwp-subway-path/tree/step1)|[PR](https://github.com/woowacourse/jwp-subway-path/pull/19)|
