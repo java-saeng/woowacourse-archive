@@ -4,6 +4,9 @@
 <br>
 
 ## Level 2️⃣
+
+[회고](https://c-king.tistory.com/entry/%EB%A0%88%EB%B2%A8-2-%ED%9A%8C%EA%B3%A0)
+
 | Project | Period | Repository | PR |
 | --- | --- | --- | --- |
 |쇼핑 주문 1단계|`2023-05-23` ~ `2023-06-05`|[repository](https://github.com/java-saeng/jwp-shopping-order/tree/step1)|[PR](https://github.com/woowacourse/jwp-shopping-order/pull/83)|
