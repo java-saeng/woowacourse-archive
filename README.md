@@ -96,6 +96,10 @@
 
 | Project | Period | Repository | PR |
 | --- | --- | --- | --- |
+|레거시 코드 리팩터링 4단계|`2023-10-10` ~ `2023-10-27`|[repository](https://github.com/java-saeng/jwp-refactoring/tree/step4)|[PR](https://github.com/woowacourse/jwp-refactoring/pull/769)|
+|레거시 코드 리팩터링 3단계|`2023-10-10` ~ `2023-10-27`|[repository](https://github.com/java-saeng/jwp-refactoring/tree/step3)|[PR](https://github.com/woowacourse/jwp-refactoring/pull/671)|
+|레거시 코드 리팩터링 2단계|`2023-10-10` ~ `2023-10-27`|[repository](https://github.com/java-saeng/jwp-refactoring/tree/step2)|[PR](https://github.com/woowacourse/jwp-refactoring/pull/571)|
+|레거시 코드 리팩터링 1단계|`2023-10-10` ~ `2023-10-27`|[repository](https://github.com/java-saeng/jwp-refactoring/tree/step1)|[PR](https://github.com/woowacourse/jwp-refactoring/pull/493)|
 |JDBC 라이브러리 구현하기 4단계|`2023-09-26` ~ `2023-10-09`|[repository](https://github.com/java-saeng/jwp-dashboard-jdbc/tree/step4)|[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/550)|
 |JDBC 라이브러리 구현하기 3단계|`2023-09-26` ~ `2023-10-09`|[repository](https://github.com/java-saeng/jwp-dashboard-jdbc/tree/step3)|[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/418)|
 |JDBC 라이브러리 구현하기 2단계|`2023-09-26` ~ `2023-10-09`|[repository](https://github.com/java-saeng/jwp-dashboard-jdbc/tree/step2)|[PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/343)|
